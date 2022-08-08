@@ -1,0 +1,10 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/MarciaGuimaraes/Desktop/caioLapa_thiagoBerguer'
+gcc -c main.c
+gcc -c tad.c
+gcc -c simplesmente_encadeada.c
+cc    -c -o duplamente_encadeada.o duplamente_encadeada.c
+gcc -c funcoes_auxiliares.c
+gcc main.o simplesmente_encadeada.o tad.o duplamente_encadeada.o funcoes_auxiliares.o -o trabalho_compilado
+make: Leaving directory `/Users/MarciaGuimaraes/Desktop/caioLapa_thiagoBerguer'
+ 

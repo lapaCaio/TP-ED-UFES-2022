@@ -1,0 +1,25 @@
+TRABALHO PRÁTICO - ESTRUTURA DE DADOS
+Caio Lapa
+
+Linguagem: C
+
+Esse projeto é uma simulação do funcionamento de uma rede social simples de forma simplificada, com algumas funções:
+
+1 - Inserir um novo aluno;
+
+2 - Alterar os dados de um aluno;
+
+3 - Remover um aluno;
+
+4 - Imprimir a lista de alunos;
+
+5 – Inserir relação de amizade;
+
+6 – Remover relação de amizade;
+
+7 – Imprimir amigos de um aluno;
+
+8 – Imprimir a lista de alunos por curso;
+
+Ao iniciar, todos os dados são lidos de um arquivo '.txt'.
+Ao finalizar, todos os dados alterados ou acrescentados são adicionados no arquivo '.txt'.
